@@ -67,7 +67,7 @@ const Navbar = () => {
                         <button onClick={() => scrollToSection('product')} className="hover:underline">
                             Products
                         </button>
-                        <button onClick={() => scrollToSection('footer')} className="hover:underline">
+                        <button onClick={() => scrollToSection('contact-us')} className="hover:underline">
                             Contact
                         </button>
                     </motion.div>
